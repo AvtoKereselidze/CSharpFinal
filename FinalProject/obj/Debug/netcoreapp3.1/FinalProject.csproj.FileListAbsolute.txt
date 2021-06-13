@@ -1,0 +1,26 @@
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\gagni\Desktop\Final Project\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\Users\Avto\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
